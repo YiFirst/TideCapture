@@ -1,4 +1,4 @@
-# TideCapture（潮汐捕获）
+# TideCapture（潮汐捕获）(dsh开发)
 
 > 开源 UVC 采集卡手机监看工具 —— 把 USB 采集卡的 HDMI 输入铺满手机/平板屏幕当副屏。
 >
